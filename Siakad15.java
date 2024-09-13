@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class siakad{
+public class Siakad15{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         String nama, nim;
